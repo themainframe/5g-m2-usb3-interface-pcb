@@ -1663,7 +1663,7 @@ L Mechanical:MountingHole H1
 U 1 1 5FCF2518
 P 5200 3750
 F 0 "H1" H 5300 3794 50  0000 L CNN
-F 1 "M2.5 Threaded Insert" H 5300 3706 50  0000 L CNN
+F 1 "M2 Threaded Insert" H 5300 3706 50  0000 L CNN
 F 2 "footprint:9774015243RStandoff" H 5200 3750 50  0001 C CNN
 F 3 "https://www.mouser.co.uk/datasheet/2/445/9774015243R-1728818.pdf" H 5200 3750 50  0001 C CNN
 F 4 "0.785" H 5200 3750 50  0001 C CNN "Int @ 10"
@@ -1679,7 +1679,7 @@ L Mechanical:MountingHole H2
 U 1 1 5FCF3577
 P 5200 4000
 F 0 "H2" H 5300 4044 50  0000 L CNN
-F 1 "M2.5 Threaded Insert" H 5300 3956 50  0000 L CNN
+F 1 "M2 Threaded Insert" H 5300 3956 50  0000 L CNN
 F 2 "footprint:9774015243RStandoff" H 5200 4000 50  0001 C CNN
 F 3 "https://www.mouser.co.uk/datasheet/2/445/9774015243R-1728818.pdf" H 5200 4000 50  0001 C CNN
 F 4 "0.785" H 5200 4000 50  0001 C CNN "Int @ 10"
