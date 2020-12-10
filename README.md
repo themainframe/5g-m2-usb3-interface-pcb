@@ -1,10 +1,10 @@
 # 5G M.2 USB3 Interface Board
 
-I’ve been experimenting with 5G cellular modules recently, and found that many of the break-out boards that run on just USB power (mostly designed for 4G modules) for the M.2 modules can’t supply the required current at the peaks during transmission. I decided to design my own in KiCad with dual-power input, Nano-SIM slot, and USB 3 to support the required data rates for 5G. 
+I’ve been experimenting with 5G cellular modules recently, and found that many of the M.2 break-out boards that run on just USB power (mostly designed for 4G modules) can’t supply the required current at the peaks during transmission. I decided to design my own in KiCad with dual-power input, Nano-SIM slot, and USB 3 to support the required data rates for 5G. 
 
 ![Board with an old 4G module installed for testing. No, I don't care about the IMEI number...](images/board-top-bottom.jpg)
 
-I'm using mine with a Quectel RM500Q-GL that I've previously [blogged about](https://damow.net/5g-home-broadband/). The design very much obeys the appnote recommendations for the RM500Q-GL module so use with that particular module should be pretty solid.
+I'm using mine with a Quectel [RM500Q-GL](https://www.quectel.com/product/rm500q.htm) 5G module that I've previously [blogged about](https://damow.net/5g-home-broadband/). The design very much obeys the appnote recommendations for the RM500Q-GL module so use with that one especially should work fine.
 
 ## Features
 
