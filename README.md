@@ -1,6 +1,6 @@
 # 5G M.2 USB3 Interface Board
 
-I’ve been experimenting with 5G cellular modules recently, and found that many of the break-out boards (mostly designed for 4G modules) for the M.2 modules can’t supply the required current at the peaks during transmission. I decided to design my own in KiCad with dual-power input, Nano-SIM slot, and USB 3 to support the required data rates for 5G. 
+I’ve been experimenting with 5G cellular modules recently, and found that many of the break-out boards that run on just USB power (mostly designed for 4G modules) for the M.2 modules can’t supply the required current at the peaks during transmission. I decided to design my own in KiCad with dual-power input, Nano-SIM slot, and USB 3 to support the required data rates for 5G. 
 
 ![Board with an old 4G module installed for testing. No, I don't care about the IMEI number...](images/board-top-bottom.jpg)
 
