@@ -1,0 +1,23 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,SKU,Vendor,Int @ 10,MPN,Mfr,Note
+1,Unpolarized capacitor,C,C8 C13,10pF,C_0402_1005Metric,2,~,963-TMK042CG100DD-W,Mouser,0.031,TMK042CG100DD-W,Taiyo-Yuden,
+2,Unpolarized capacitor,C,C7 C12 C14 C17 C18 C19,33pF,C_0402_1005Metric,6,~,81-GRM0225C1H330JA2L,Mouser,0.038,GRM0225C1H330JA02L,MuRata Electronics,
+3,Unpolarized capacitor,C,C2,430pF,C_0402_1005Metric,1,~,80-C0402C431J5GACTU,Mouser,0.206,C0402C431J5GACTU,KEMET,
+4,Unpolarized capacitor,C,C6 C11 C16,100nF,C_0402_1005Metric,3,~,80-C0402C104K9RAUTO,Mouser,0.039,C0402C104K9RACAUTO,KEMET,
+5,Unpolarized capacitor,C,C5 C10,1uF,C_0603_1608Metric,2,~,80-C0603C105K9R7411,Mouser,0.077,C0603C105K9RAC7411,KEMET,
+6,Unpolarized capacitor,C,C1,10uF,C_0805_2012Metric,1,~,963-JMF212AB7106KGHT,Mouser,0.106,JMF212AB7106KGHT,Taiyo-Yuden,
+7,Unpolarized capacitor,C,C3,22uF,C_1210_3225Metric,1,~,963-TMK325B7226MMHP,Mouser,0.386,TMK325B7226MMHP,Taiyo-Yuden,
+8,Polarized capacitor,CP,C4 C9,100uF,CP_EIA-3528-21_Kemet-B,2,~,667-6TPE100MZB,Mouser,0.703,6TPE100MZB,Panasonic,Tantalum
+9,Light emitting diode,LED,D3 D4,LED,LED_0805_2012Metric,2,~,604-APTD2012LQBCD,Mouser,0.284,APTD2012LQBC/D,Kingbright,WWAN VCCON
+10,"40V 3A Schottky Barrier Rectifier Diode, SMA(DO-214AC)",MBRA340,D1 D2,MBRA340,D_SMA,2,https://www.onsemi.com/pub/Collateral/MBRA340T3-D.PDF,863-MBRA340T3G,Mouser,0.262,MBRA340T3G,ON Semiconductor,
+11,Mounting Hole without connection,MountingHole,H1 H2,M2 Threaded Insert,9774015243RStandoff,2,https://www.mouser.co.uk/datasheet/2/445/9774015243R-1728818.pdf,710-9774015243R,Mouser,0.785,9774015243R,Wurth,
+12,,2199119-3,J2,2199119-3,TE_2199119-3,1,,571-2199119-3,Mouser,0.831,2199119-3,TE Connectivity,NGFF (M.2 B-Key)
+13,,692221030100,J1,692221030100,Wurth-692221030100-0-0-MFG,1,https://katalog.we-online.de/em/datasheet/692221030100.pdf,710-692221030100,Mouser,2.79,692221030100,Wurth,
+14,,693043020611,J4,693043020611,Wurth-693043020611-MFG,1,https://www.we-online.com/catalog/datasheet/693043020611.pdf,710-693043020611,Mouser,1.25,693043020611,Wurth,
+15,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x03_Male,J5,Conn_01x03_Male,PinHeader_1x03_P2.54mm_Vertical,1,~,,,,,,
+16,DC Barrel Jack with a mounting pin,Barrel_Jack_MountingPin,J3,Jack-DC,BarrelJack_Wuerth_6941xx301002,1,~,710-694106301002,Mouser,0.74,694106301002,Wurth,
+17,Resistor,R,R6 R7 R8,22R,R_0603_1608Metric,3,~,,,,,,
+18,Resistor,R,R1 R4 R9,330R,R_0603_1608Metric,3,~,,,,,,
+19,Resistor,R,R2 R5,100k,R_0603_1608Metric,2,~,,,,,,
+20,Resistor,R,R3,374k,R_0603_1608Metric,1,~,,,,,,
+21,,KMR221GLFS,SW1,KMR221GLFS,CK-KMR221GLFS-MFG,1,https://www.ckswitches.com/media/1479/kmr2.pdf,611-KMR221G-LFS,Mouser,0.411,KMR221GLFS,C&K,
+22,,TPS82130SILR,U1,TPS82130SILR,Texas_Instruments-SIL0008D-0-0-0,1,http://www.ti.com/lit/ds/symlink/tps82130.pdf,595-TPS82130SILR,Mouser,2.72,TPS82130SILR,Texas Instruments,
